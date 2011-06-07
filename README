@@ -1,0 +1,15 @@
+The Carmedia Front-End project aims to develop a fully featured and open-source front-end for in-car integrated computers.
+
+Carmedia Front-End is a cross-platform software which will be available for Linux, Mac OS and Microsoft Windows operating-systems.
+
+Some features which will probably be included :
+- Very easy to use GUI with 2D SDL graphics and OpenGL effects
+- Designed to be used with either a touchscreen, a keyboard or any input device
+- Fully customizable UI via a powerful skinning system using PNG and XML files
+- Support of most of the audio and video formats available via libVLC library
+- Possibility to launch and embed external apps (like GPS navigation software)
+- Integrated GPS navigation software, navit is the most advanced project of this type
+- Support and integration of analog and digital radio and TV devices, webradios and webTVs
+- Integrated web browser and internet connection manager (Wifi/3G/BT/etc)
+- Addons system using python language
+- And many more!
